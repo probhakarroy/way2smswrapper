@@ -1,5 +1,5 @@
 # way2smswrapper
-A Python Messaging Module Using Way2Sms & Selenium Module.  
+A Python Messaging Module Using Way2SMS & Selenium Module.  
 Created By $implic@
 
 Requirements :-
