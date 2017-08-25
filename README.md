@@ -1,4 +1,4 @@
-# way2smswrapper
+# Way2SMS Wrapper
 A Python Messaging Module Using Way2SMS & Selenium Module.  
 Created By $implic@
 
