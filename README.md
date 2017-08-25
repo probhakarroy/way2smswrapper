@@ -26,6 +26,6 @@ Usage   :-
 Methods : 
           
           w2swrapper.login()
-          w2swrapper.sms(Message)
+          w2swrapper.sms('Message')
 
 Tested In Ubuntu-17.04
