@@ -2,13 +2,13 @@
 A Python Messaging Module Using Way2Sms & Selenium.  
 Created By $implic@
 
-Requirements : Python3.
-               Selenium Module.
-               Firefox Browser.
-               Geckodriver.
-               Xvfb - Installation.
-               Xvfbwrapper Module.
-               Way2SMS Account.
+Requirements : Python3, 
+               Selenium Module, 
+               Firefox Browser, 
+               Geckodriver, 
+               Xvfb - Installation, 
+               Xvfbwrapper Module, 
+               Way2SMS Account, 
 
 The python module uses selenium module to control the firefox browser which is being controlled by geckodriver.
 The module is using xvfb(x-virtual frame buffer) and the xvfb wrapper for python3 to run the firefox browser 
@@ -18,6 +18,7 @@ One can import the module in his/her own python3 program to send the status of t
 the user's mobile phone number through sms using the user's Way2SMS Account.
 
 Usage   : import w2swrapper
+
 Methods : w2swrapper.login()
           w2swrapper.sms(Message)
 
