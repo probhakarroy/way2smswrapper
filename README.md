@@ -8,7 +8,7 @@ Requirements : Python3,
                Geckodriver, 
                Xvfb - Installation, 
                Xvfbwrapper Module, 
-               Way2SMS Account, 
+               Way2SMS Account.
 
 The python module uses selenium module to control the firefox browser which is being controlled by geckodriver.
 The module is using xvfb(x-virtual frame buffer) and the xvfb wrapper for python3 to run the firefox browser 
@@ -20,6 +20,7 @@ the user's mobile phone number through sms using the user's Way2SMS Account.
 Usage   : import w2swrapper
 
 Methods : w2swrapper.login()
+
           w2swrapper.sms(Message)
 
 Tested In Ubuntu-17.04
