@@ -18,6 +18,7 @@ One can import the module in his/her own python3 program to send the status of t
 the user's mobile phone number through sms using the user's Way2SMS Account.
 
 Usage   : import w2swrapper
+
 Methods : w2swrapper.login()
           w2swrapper.sms(Message)
 
