@@ -1,9 +1,15 @@
 [tool.poetry]
 name = "way2smswrapper"
-version = "0.1.0"
+version = "0.1.2"
 description = "A Python Messaging Module Using Way2SMS & Selenium Module."
 authors = ["Probhakar Roy <probhakarroy3110@gmail.com>"]
 license = "MIT"
+readme = 'README.md'
+
+repository = 'https://github.com/probhakarroy/way2smswrapper'
+homepage = 'https://github.com/probhakarroy/way2smswrapper'
+
+keywords = ['way2sms', 'free sms service']
 
 [tool.poetry.dependencies]
 python = "^3.7"
