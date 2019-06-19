@@ -15,7 +15,7 @@
 > A Python Messaging Module Using Way2SMS & Selenium Module.  
 > Created By $implic@
 
-##Install
+## Install
 ```sh
 $pip install way2smswrapper
 ```
@@ -35,12 +35,12 @@ headlessly(in the background). Way2SMS Account is being used to send the message
 One can import the module in his/her own python3 program to send the status of the current running program to 
 the user's mobile phone number through sms using the user's Way2SMS Account.
 
-Usage   :-
+## Usage   :-
 ```sh          
 import w2swrapper
 ```
 
-Methods : 
+## Methods : 
 ```sh          
 wrapper.login()
 wrapper.sms('Message')
