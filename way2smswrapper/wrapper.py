@@ -1,25 +1,9 @@
-#!/usr/bin/python3
-
-#A Way2Sms Module - v0.1.
-#Requirement : Selenium Module.
-#              Firefox Browser.
-#              Geckodriver.
-#              Xvfb - Installation.
-#              Xvfbwrapper Module.
-#Runtime - 30sec approx.
-#Usage   : import w2swrapper
-#Methods : w2swrapper.login()
-#          w2swrapper.sms(Message)
-
-#Tested In Ubuntu-17.04
-
-#Created By $implic@
+#!./env/bin/python3
 
 import time, getpass
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from xvfbwrapper import Xvfb
-
 
 
 def login() :
